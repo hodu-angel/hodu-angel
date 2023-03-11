@@ -1,7 +1,7 @@
 ### 👋 안녕하세요^^! 
 
 [![velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@hodu_angel) 
-![portfolio](https://img.shields.io/badge/portfolio-000000?style=flat&logo=Notion&logoColor=white)
+![portfolio](https://img.shields.io/badge/portfolio-FFFFFF?style=flat&logo=Notion&logoColor=black)
 
 - :computer: 무언가 만들기를 재밌어하는 앱 프론트엔드 개발자 입니다.
 - :innocent: 유저에게 보다 편리한 UI/UX 를 제공하고 싶습니다.
