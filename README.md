@@ -1,4 +1,4 @@
-### 👋 안녕하세요^^! 
+### 👋 안녕하세요^^
 
 [![velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@hodu_angel) 
 ![portfolio](https://img.shields.io/badge/portfolio-FFFFFF?style=flat&logo=Notion&logoColor=black)
