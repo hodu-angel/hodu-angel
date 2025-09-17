@@ -3,7 +3,7 @@
 [![velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@hodu_angel)
 ![portfolio](https://img.shields.io/badge/portfolio-FFFFFF?style=flat&logo=Notion&logoColor=black)
 
-- :computer: 무언가 만들기를 재밌어하는 앱 개발자 입니다.
+- :computer: 만들기를 즐기고 좋아하는 앱 개발자 입니다.
 - :innocent: 유저에게 보다 편리한 UI/UX 를 제공하고 싶습니다.
 - :battery: 시각적으로 즐거움을 얻기 위해 일러스트 전시회, 푸드박람회 등의 방문하는 것을 좋아합니다.
 - :fire: 이슈 발생 시, 원인 발견과 여러 해결방안을 생각합니다. 맡은 일에 대하여 깊은 책임감을 갖고 수행합니다.
