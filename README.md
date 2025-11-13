@@ -1,29 +1,27 @@
-### 👋 안녕하세요^^
+<img src="https://velog.velcdn.com/images/hodu_angel/post/60636dd7-a862-4084-82b7-35ad7387bc4c/image.png" width="200" height="200" />
 
+## 🛠️ Skills & Tools
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Java-EB844E?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-147EFB?style=flat&logo=VSCode&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=Intellijidea&logoColor=white"/>
+<br><br>
+
+## 🤝 Collaboration & Productivity
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logoColor=white"/> 
+<br><br>
+
+## 🚀 Learning Now
+Flutter CustomPaint / Animation <br>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
+
+## ⚡ Documentation
 [![velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@hodu_angel)
-![portfolio](https://img.shields.io/badge/portfolio-FFFFFF?style=flat&logo=Notion&logoColor=black)
-
-- :computer: 만들기를 즐기고 좋아하는 앱 개발자 입니다.
-- :innocent: 유저에게 보다 편리한 UI/UX 를 제공하고 싶습니다.
-- :battery: 시각적으로 즐거움을 얻기 위해 일러스트 전시회, 푸드박람회 등의 방문하는 것을 좋아합니다.
-- :fire: 이슈 발생 시, 원인 발견과 여러 해결방안을 생각합니다. 맡은 일에 대하여 깊은 책임감을 갖고 수행합니다.
-
-언어 및 도구<br>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/figma/figma.png"></code>
-
-<!--
-**hyojuseo/hyojuseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
