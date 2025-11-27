@@ -25,7 +25,7 @@ go-router package handle <br>
 <!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> -->
 
 ## 🚀 Ongoing Project
-국내 / 해외 전시앱 ArtTrip (github 링크 추가 예정)
+국내 / 해외 전시앱 ArtTrip [github ➔](https://github.com/ProjectArTrip/arttrip-ios)
 
 ## ⚡ Documentation
 [![velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@hodu_angel)
